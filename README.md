@@ -1,4 +1,4 @@
-# 💼 Developer Portfolio
+# 💼 Diksha's Portfolio
 
 This is my personal developer portfolio website, created to showcase my projects, skills, and contact information. It is built using HTML, CSS, and JavaScript, and is hosted using **GitHub Pages**.
 
